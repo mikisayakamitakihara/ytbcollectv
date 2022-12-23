@@ -10,9 +10,7 @@
       `
 
 </h2>
-
-<img src="https://user-images.githubusercontent.com/121276038/209273230-45ac0f82-c004-488b-a7a2-9c5e3e22e5e8.png">
-<h4>Leiðbeiningar: Ég var upptekinn og gerði það mjög viðeigandi. Þetta er í fyrsta skipti sem ég nota github og það lítur frekar ljótt út. Til að setja það einfaldlega er þetta hugrakkur framlengingartól sem safnar radd- og textasettum (allt í hiragana) frá YouTube (miðað við mmvc). <br>(Getur virkað með króm?) Vinsamlegast leitaðu að því hvernig á að setja upp viðbætur eins og króm\n
+<h2>訳Leiðbeiningar: Ég var upptekinn og gerði það mjög viðeigandi. Þetta er í fyrsta skipti sem ég nota github og það lítur frekar ljótt út. Til að setja það einfaldlega er þetta hugrakkur framlengingartól sem safnar radd- og textasettum (allt í hiragana) frá YouTube (miðað við mmvc). <br>(Getur virkað með króm?) Vinsamlegast leitaðu að því hvernig á að setja upp viðbætur eins og króm\n
       Það er í grundvallaratriðum þróunarútgáfa, þannig að ef þú ert að reyna að búa til það sama geturðu notað það eða bætt það til að vista það. License MIT. \n<br>
       Í hvert skipti sem síðan hleðst skaltu fyrst ýta á ▶ hnappinn neðst til vinstri á YouTube spilunarskjánum til að spila einu sinni,\n<br>
       Upptökuaðgerðin virkar ekki nema þú hættir handvirkt og spilar tvisvar, upphafspunkt
@@ -20,4 +18,6 @@
       Við berum ekki ábyrgð á neinu. Fylgdu lögum og siðum og notaðu þau í rólegheitum<br>
       `
 Licence MIT
-</h4>
+</h2>
+<img src="https://user-images.githubusercontent.com/121276038/209273230-45ac0f82-c004-488b-a7a2-9c5e3e22e5e8.png">
+
