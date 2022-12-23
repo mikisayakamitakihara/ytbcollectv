@@ -1,0 +1,28 @@
+{
+  "name": "youtube-voice-collecter-chrome-extension",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "youtube-voice-collecter-chrome-extension",
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  
+  "permissions": [
+    "tabs",
+    "bookmarks",
+    "http://www.blogger.com/",
+    "http://*.google.com/",
+    "unlimitedStorage",
+    "downloads"
+  ]
+  
+}
