@@ -6,7 +6,7 @@
       テキストエリアで音声のファイル名(発話内容)を決めて録音ボタンを押すとDLできます")\n<br>
       alert("voicemeeterの仮想オーディオデバイスの設定頑張ってRTXvoiceとか入れてノイズ消して声だけにしたりとかマイク入出力とか頑張ってください")\n<br>
       alert("免責：本ソフトウェアの使用または使用不能により生じたいかなる直接損害、波及的損害、間接損害、結果的損害 または特別損害についても、\n<br>
-      すべて一切責任を負いません。法とマナーを守っておだやかに利用してください<br>
+      すべて一切責任を負いません。法とマナーを守っておだやかに利用してくださいLicence MIT 一部AIにプログラムを書かせています<br>
       `
 
 </h2>
@@ -15,7 +15,7 @@
       Í hvert skipti sem síðan hleðst skaltu fyrst ýta á ▶ hnappinn neðst til vinstri á YouTube spilunarskjánum til að spila einu sinni,\n<br>
       Upptökuaðgerðin virkar ekki nema þú hættir handvirkt og spilar tvisvar, upphafspunkt
       alert("FYRIRVARI: EINHVER BEIN, AFLEIDING, ÓBEIN, AFLEIDINGAR EÐA SÉRSTAKAR Tjón sem stafar af notkun eða vanhæfni til að nota þennan hugbúnað\n<br>
-      Við berum ekki ábyrgð á neinu. Fylgdu lögum og siðum og notaðu þau í rólegheitum<br>
+      Við berum ekki ábyrgð á neinu. Fylgdu lögum og siðum og notaðu þau í rólegheitum　Sum gervigreind skrifa forrit<br>
       `
 Licence MIT
 </h2>
